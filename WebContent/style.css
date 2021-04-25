@@ -1,0 +1,34 @@
+@charset "UTF-8";
+.body{
+	width:95vw;
+	height:90vh;
+	background-image: url("https://cdn.pixabay.com/photo/2020/01/04/18/40/trees-4741364_1280.png");
+	background-size: cover;
+	text-align: center;
+	font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+.forma{
+	padding-top:15px;
+	padding-bottom:20px;
+	box-shadow: 4px 4px 4px 5px rgba(0, 0, 128, .4);
+	font-size:12px;
+	margin-top:5px;
+	margin-left:5px;
+	
+	width:150px;
+	height:130px;
+}
+.input{
+	padding-top:10px;
+	width:100px;
+	height:10px;
+}
+.input-words{
+	font-size:10px;
+}
+.news{
+	margin-top:20px;
+	
+}
+
